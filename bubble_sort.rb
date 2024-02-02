@@ -12,7 +12,7 @@
                 end
             end
         end
-        puts array.join
+        puts array.join(", ")
     end
 
     bubble_sort([0,1,3,2,4,5,6,8,6,4,8,9])
